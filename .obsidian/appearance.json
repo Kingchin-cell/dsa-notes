@@ -1,6 +1,6 @@
 {
   "showRibbon": true,
-  "theme": "moonstone",
+  "theme": "system",
   "nativeMenus": false,
   "accentColor": "#4b7de2"
 }
